@@ -1,0 +1,7 @@
+body {
+	margin: 0;
+	overflow: hidden;/*полосы прокрутки*/
+	background: rgb(20, 25, 45);
+	cursor: none;
+
+}
